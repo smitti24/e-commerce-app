@@ -1,0 +1,54 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\Development\\e-commerce test application\\e-commerce\\e-commerce.BusinessLogic\\e-commerce.BusinessLogic.csproj",
+    "projectName": "e-commerce.BusinessLogic",
+    "projectPath": "D:\\Development\\e-commerce test application\\e-commerce\\e-commerce.BusinessLogic\\e-commerce.BusinessLogic.csproj",
+    "outputPath": "D:\\Development\\e-commerce test application\\e-commerce\\e-commerce.BusinessLogic\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "D:\\Development\\e-commerce test application\\e-commerce\\e-commerce.Domain\\e-commerce.Domain.csproj": {
+            "projectPath": "D:\\Development\\e-commerce test application\\e-commerce\\e-commerce.Domain\\e-commerce.Domain.csproj"
+          },
+          "D:\\Development\\e-commerce test application\\e-commerce\\e-commerce.Utility\\e-commerce.Utility.csproj": {
+            "projectPath": "D:\\Development\\e-commerce test application\\e-commerce\\e-commerce.Utility\\e-commerce.Utility.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

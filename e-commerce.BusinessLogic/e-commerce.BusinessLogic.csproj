@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+        <RootNamespace>e_commerce.BusinessLogic</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\e-commerce.Domain\e-commerce.Domain.csproj" />
+      <ProjectReference Include="..\e-commerce.Utility\e-commerce.Utility.csproj" />
+    </ItemGroup>
+
+</Project>

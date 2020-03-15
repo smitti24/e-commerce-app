@@ -1,0 +1,73 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\Development\\e-commerce test application\\e-commerce\\ecommerce.IntegrationTests\\ecommerce.IntegrationTests.csproj",
+    "projectName": "ecommerce.IntegrationTests",
+    "projectPath": "D:\\Development\\e-commerce test application\\e-commerce\\ecommerce.IntegrationTests\\ecommerce.IntegrationTests.csproj",
+    "outputPath": "D:\\Development\\e-commerce test application\\e-commerce\\ecommerce.IntegrationTests\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "D:\\Development\\e-commerce test application\\e-commerce\\e-commerce.BusinessLogic\\e-commerce.BusinessLogic.csproj": {
+            "projectPath": "D:\\Development\\e-commerce test application\\e-commerce\\e-commerce.BusinessLogic\\e-commerce.BusinessLogic.csproj"
+          },
+          "D:\\Development\\e-commerce test application\\e-commerce\\e-commerce.Domain\\e-commerce.Domain.csproj": {
+            "projectPath": "D:\\Development\\e-commerce test application\\e-commerce\\e-commerce.Domain\\e-commerce.Domain.csproj"
+          },
+          "D:\\Development\\e-commerce test application\\e-commerce\\e-commerce.Utility\\e-commerce.Utility.csproj": {
+            "projectPath": "D:\\Development\\e-commerce test application\\e-commerce\\e-commerce.Utility\\e-commerce.Utility.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.Extensions.DependencyInjection": {
+          "target": "Package",
+          "version": "[3.1.2, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.9.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.11.0, )"
+        },
+        "nunit": {
+          "target": "Package",
+          "version": "[3.11.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "e-commerce.BusinessLogic/1.0.0": {
+        "dependencies": {
+          "e-commerce.Domain": "1.0.0",
+          "e-commerce.Utility": "1.0.0"
+        },
+        "runtime": {
+          "e-commerce.BusinessLogic.dll": {}
+        }
+      },
+      "e-commerce.Domain/1.0.0": {
+        "runtime": {
+          "e-commerce.Domain.dll": {}
+        }
+      },
+      "e-commerce.Utility/1.0.0": {
+        "runtime": {
+          "e-commerce.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "e-commerce.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "e-commerce.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "e-commerce.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

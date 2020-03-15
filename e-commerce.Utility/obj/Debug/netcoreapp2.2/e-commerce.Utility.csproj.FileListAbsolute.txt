@@ -1,0 +1,9 @@
+D:\Development\e-commerce test application\e-commerce\e-commerce.Utility\bin\Debug\netcoreapp2.2\e-commerce.Utility.deps.json
+D:\Development\e-commerce test application\e-commerce\e-commerce.Utility\bin\Debug\netcoreapp2.2\e-commerce.Utility.dll
+D:\Development\e-commerce test application\e-commerce\e-commerce.Utility\bin\Debug\netcoreapp2.2\e-commerce.Utility.pdb
+D:\Development\e-commerce test application\e-commerce\e-commerce.Utility\obj\Debug\netcoreapp2.2\e-commerce.Utility.csprojAssemblyReference.cache
+D:\Development\e-commerce test application\e-commerce\e-commerce.Utility\obj\Debug\netcoreapp2.2\e-commerce.Utility.csproj.CoreCompileInputs.cache
+D:\Development\e-commerce test application\e-commerce\e-commerce.Utility\obj\Debug\netcoreapp2.2\e-commerce.Utility.AssemblyInfoInputs.cache
+D:\Development\e-commerce test application\e-commerce\e-commerce.Utility\obj\Debug\netcoreapp2.2\e-commerce.Utility.AssemblyInfo.cs
+D:\Development\e-commerce test application\e-commerce\e-commerce.Utility\obj\Debug\netcoreapp2.2\e-commerce.Utility.dll
+D:\Development\e-commerce test application\e-commerce\e-commerce.Utility\obj\Debug\netcoreapp2.2\e-commerce.Utility.pdb

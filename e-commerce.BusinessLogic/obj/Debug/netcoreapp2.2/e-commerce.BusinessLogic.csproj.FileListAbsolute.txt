@@ -1,0 +1,14 @@
+D:\Development\e-commerce test application\e-commerce\e-commerce.BusinessLogic\bin\Debug\netcoreapp2.2\e-commerce.BusinessLogic.deps.json
+D:\Development\e-commerce test application\e-commerce\e-commerce.BusinessLogic\bin\Debug\netcoreapp2.2\e-commerce.BusinessLogic.dll
+D:\Development\e-commerce test application\e-commerce\e-commerce.BusinessLogic\bin\Debug\netcoreapp2.2\e-commerce.BusinessLogic.pdb
+D:\Development\e-commerce test application\e-commerce\e-commerce.BusinessLogic\bin\Debug\netcoreapp2.2\e-commerce.Domain.dll
+D:\Development\e-commerce test application\e-commerce\e-commerce.BusinessLogic\bin\Debug\netcoreapp2.2\e-commerce.Utility.dll
+D:\Development\e-commerce test application\e-commerce\e-commerce.BusinessLogic\bin\Debug\netcoreapp2.2\e-commerce.Domain.pdb
+D:\Development\e-commerce test application\e-commerce\e-commerce.BusinessLogic\bin\Debug\netcoreapp2.2\e-commerce.Utility.pdb
+D:\Development\e-commerce test application\e-commerce\e-commerce.BusinessLogic\obj\Debug\netcoreapp2.2\e-commerce.BusinessLogic.csprojAssemblyReference.cache
+D:\Development\e-commerce test application\e-commerce\e-commerce.BusinessLogic\obj\Debug\netcoreapp2.2\e-commerce.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Development\e-commerce test application\e-commerce\e-commerce.BusinessLogic\obj\Debug\netcoreapp2.2\e-commerce.BusinessLogic.AssemblyInfoInputs.cache
+D:\Development\e-commerce test application\e-commerce\e-commerce.BusinessLogic\obj\Debug\netcoreapp2.2\e-commerce.BusinessLogic.AssemblyInfo.cs
+D:\Development\e-commerce test application\e-commerce\e-commerce.BusinessLogic\obj\Debug\netcoreapp2.2\e-commerce.BusinessLogic.csproj.CopyComplete
+D:\Development\e-commerce test application\e-commerce\e-commerce.BusinessLogic\obj\Debug\netcoreapp2.2\e-commerce.BusinessLogic.dll
+D:\Development\e-commerce test application\e-commerce\e-commerce.BusinessLogic\obj\Debug\netcoreapp2.2\e-commerce.BusinessLogic.pdb
